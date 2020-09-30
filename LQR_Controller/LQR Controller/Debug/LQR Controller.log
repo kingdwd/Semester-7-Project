@@ -1,0 +1,3 @@
+﻿  LQR_controller.cpp
+c:\users\yahya\google drive\aau\semester 7 project\controller logic\lqr controller\lqr controller\lqr_controller.cpp(109): warning C4101: 'x_pos': unreferenced local variable
+  LQR Controller.vcxproj -> C:\Users\Yahya\Google Drive\AAU\Semester 7 Project\Controller Logic\LQR Controller\Debug\LQR Controller.exe
